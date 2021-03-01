@@ -1,0 +1,16 @@
+{
+  "name": "know-me",
+  "version": "1.0.0",
+  "description": "Please click on the link below to play the game or to know more about me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
